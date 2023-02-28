@@ -32,7 +32,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class Main {
+public class ExchangeOrderMatch {
     public static void main(String[] args) {
         InputStream inputStream = null;
         try {
